@@ -1,1 +1,1 @@
-git add .
+send README.md
